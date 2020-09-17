@@ -7,12 +7,10 @@ tags: kafka
 author: crystalcxl
 ---
 
-[TOC]
+* content
+{:toc}
 
 记录下kafka常用命令
-
-
-
 
 
 
