@@ -323,9 +323,7 @@ l 点击Topic，可以浏览对应的Consumer Groups、Offset、Lag等信息
 
 l 生产和消费流量图、消息预览…
 
-![image](https://github.com/crystalcxl/crystalcxl.github.io/tree/master/images/wps1.png) 
-
- 
+ ![](https://raw.githubusercontent.com/crystalcxl/crystalcxl.github.io/master/images/wps1.png)
 
 程序运行后，会定时去读取kafka集群分区的日志长度，读取完毕后，连接没有正常释放，一段时间后产生大量的socket连接，导致网络堵塞。
 
@@ -341,7 +339,7 @@ l 产生分区分配(Generate partition assignments)基于集群的当前状态
 
 l 重新分配分区
 
-![image](https://github.com/crystalcxl/crystalcxl.github.io/tree/master/images/wps2.png) 
+![](https://raw.githubusercontent.com/crystalcxl/crystalcxl.github.io/master/images/wps2.png)
 
 ### ***\*KafkaOffsetMonitor\****
 
