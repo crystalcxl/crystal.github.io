@@ -323,7 +323,7 @@ l 点击Topic，可以浏览对应的Consumer Groups、Offset、Lag等信息
 
 l 生产和消费流量图、消息预览…
 
-![img](file:///C:\Users\cxl\AppData\Local\Temp\ksohtml18448\wps1.jpg) 
+![img](https://github.com/crystalcxl/crystalcxl.github.io/tree/master/images/wps1.jpg) 
 
  
 
@@ -341,7 +341,7 @@ l 产生分区分配(Generate partition assignments)基于集群的当前状态
 
 l 重新分配分区
 
-![img](file:///C:\Users\cxl\AppData\Local\Temp\ksohtml18448\wps2.jpg) 
+![img](https://github.com/crystalcxl/crystalcxl.github.io/tree/master/images/wps2.jpg) 
 
 ### ***\*KafkaOffsetMonitor\****
 
