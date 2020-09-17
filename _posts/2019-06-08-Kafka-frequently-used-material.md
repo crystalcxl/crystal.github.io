@@ -9,6 +9,8 @@ author: crystalcxl
 ​---
 ---
 
+[TOC]
+
 # 1.安装部署
 
 ## 1.1 环境依赖
