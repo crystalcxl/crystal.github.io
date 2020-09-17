@@ -4,9 +4,7 @@ title: 问题记录                          # the main title
 tagline: Come on!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://crystalcxl.github.io'
@@ -134,9 +132,9 @@ defaults:
         -
           label: Home
           url: /
-        -
-          label: Categories
-          url: /tabs/categories/
+#        -
+#          label: Categories
+#          url: /tabs/categories/
   -
     scope:
       path: tabs
