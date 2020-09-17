@@ -1,15 +1,21 @@
 ---
-
 layout: post
 title:  "Kafka资料整理"
 date:   2019-06-12 11:40:18 +0800
-categories: Big DATA
+categories: BigData
 tags: kafka
 author: crystalcxl
-
 ---
 
 [TOC]
+
+记录下kafka常用命令
+
+
+
+
+
+
 
 # 1.安装部署
 
