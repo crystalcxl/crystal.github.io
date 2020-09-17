@@ -35,14 +35,6 @@
 
 ## 预览图
 
-先上预览图：
-
-主页
-![index](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bdli86awj211k0oyqen.jpg)
-
-文章页
-![post](http://ww4.sinaimg.cn/large/7011d6cfjw1f3bdmzb9v6j210p0j7gwn.jpg)
-
 ## 各部分详情
 
 ### 主页 Home
@@ -97,7 +89,7 @@ disqus_shortname: xxx
 
 ### 灯泡效果
 
-![light](http://ww3.sinaimg.cn/large/7011d6cfjw1f3be6y4vp3j209i02rweg.jpg)
+
 
 可以看到导航按钮高亮时，下面的阴影效果，我把这个称为灯泡效果。
 
@@ -105,7 +97,7 @@ disqus_shortname: xxx
 
 完美适配移动端。
 
-![mobile](http://ww4.sinaimg.cn/large/7011d6cfjw1f3bebnzxkpj20ah0fzgp4.jpg)
+
 
 ### Footer
 
@@ -326,6 +318,4 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 
 关于旧版博客，我不再维护，同时我把代码转移到了另一个仓库，见 [Gaohaoyang/old-blog](https://github.com/Gaohaoyang/old-blog)。
 
-## License
-
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
