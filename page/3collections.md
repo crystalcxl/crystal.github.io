@@ -74,22 +74,40 @@ type: page
 
 ### Hadoop
 
-* 
+* [apache/hadoop](https://github.com/apache/hadoop)
 
 
 
 ### Spark
 
-* 
+* [apache/spark](https://github.com/apache/spark)
+
+  
 
 
 ### Flink
 
-* 
+* [apache/flink](https://github.com/apache/flink)
 
-### Datax
+  
+
+### DataX
+
+- [alibaba/DataX](https://github.com/alibaba/DataX)
+
+  
+
+### Spring Boot
+
+- [spring-boot](https://github.com/spring-projects/spring-boot)
+
+- [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)
+
+  spring boot demo是一个用来深度学习并实战spring boot的项目
 
 - 
+
+  
 
 ### 测试
 
@@ -119,15 +137,14 @@ type: page
 
 ## 模块化
 
-* [后端程序员的 JavaScript 之旅 - 模块化（一）](http://lishaopeng.com/2016/02/05/js-module/)
-* [后端程序员的 JavaScript 之旅 - 模块化（二）](http://lishaopeng.com/2016/02/11/js-module2/)
-* [后端程序员的 JavaScript 之旅 - 模块化（三）](http://lishaopeng.com/2016/02/19/js-module3/)
-
 * [CommonJS 规范 -来自 阮一峰 JavaScript 标准参考教程(alpha)](http://javascript.ruanyifeng.com/nodejs/module.html)
 
 ## other articles
 
 - 
+
+
+
 ## 编辑器
 
 ### IDEA 中常用插件
