@@ -91,6 +91,21 @@ type: page
 
   
 
+### Kafka
+
+* [apache/kafka](https://github.com/apache/kafka)
+* 
+
+
+
+### Elasticsearch
+
+* [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+
+* [铭毅天下（公众号同名）](https://blog.csdn.net/laoyang360)
+
+  
+
 ### DataX
 
 - [alibaba/DataX](https://github.com/alibaba/DataX)
@@ -172,7 +187,7 @@ type: page
 
 ## Other blogs
 
-- [COLORFUL xiaoa](http://www.xiaoa.name/)
+- [中文开源技术交流社区](https://www.oschina.net/)
 
 * [进击的马斯特 http://pinkyjie.com/](http://pinkyjie.com/)
 
